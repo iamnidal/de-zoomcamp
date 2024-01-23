@@ -1,4 +1,4 @@
 .ipynb_checkpoints/
 ny_taxi_prosgres_data/
-pipeline.py
+upload-data.ipynb
 *.csv
